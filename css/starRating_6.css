@@ -1,0 +1,13 @@
+.ratingBox {
+	width: 130px;
+	height: 26px;
+	margin: 100px auto;
+	background: url(../img/star2.png) repeat-x;
+	cursor: pointer;
+}
+
+.ratingDisplay {
+	width: 0;
+	height: 26px;
+	background: url(../img/star2.png) repeat-x 0 -27px;
+}
